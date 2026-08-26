@@ -3,7 +3,7 @@
 🧠 IT student based in Brno<br/>
 ⚡ Currently learning Python, C, and C#<br/>
 🛠️ Building practical projects to level up my software development skills<br/>
-🚀 Passionate about clean code, problem-solving, and tech innovation<br/>
+🚀 Passionate about problem-solving, and tech innovation<br/>
 📫 Connect with me on Discord (999toby)
 
 
